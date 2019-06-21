@@ -1,0 +1,12 @@
+h1{
+    font-family:Franklin Gothic;
+    font-size: 120px;
+    text-align:center;
+    margin-top:50px;
+    color: pink;
+   /* background-color: yellowgreen;*/
+    text-shadow: 5px 10px 15px blue;
+}
+body{
+    background-color: grey;
+}
